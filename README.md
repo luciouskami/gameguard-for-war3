@@ -7,6 +7,10 @@ GameGuard for war3 是一个嵌入在游戏地图内部的、用来保护魔兽�
 
 # 特性
 
+##语言
+
+C++ and Python
+
 ## 检测项目
 
 * ⬜ 作弊程序
@@ -68,9 +72,11 @@ Python
 
 [Asmjit](https://github.com/asmjit/asmjit)
 
-[Boost](http://www.boost.org/)
+[Boost](http://www.boost.org)
 
 Detours
+
+
 
 
 
