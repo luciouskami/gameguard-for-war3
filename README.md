@@ -7,9 +7,9 @@ GameGuard for war3 是一个嵌入在游戏地图内部的、用来保护魔兽�
 
 # 特性
 
-##语言
+## 语言
 
-C++ and Python
+C++ and Python maybe lua
 
 ## 检测项目
 
