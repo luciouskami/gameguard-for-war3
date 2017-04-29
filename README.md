@@ -62,9 +62,17 @@ Battle.net
 
 VisualStudio 2017
 
+Python
+
+[Yara](https://github.com/VirusTotal/yara)
+
+[Asmjit](https://github.com/asmjit/asmjit)
+
 [Boost](http://www.boost.org/)
 
 Detours
+
+
 
 
 
